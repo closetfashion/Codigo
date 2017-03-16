@@ -86,7 +86,7 @@ if ($_SESSION['doc_Cliente']=="" || $_SESSION['doc_Cliente']==null ) {
       <h3>Camisa Negra Manga Larga</h3>
       <p text-align="center">
       <p>Color: Negro</p>
-      <p> Tintas: 1 (Blanco)</p>
+      <p> Tintas: 1</p>
       <p>Marca: Gildan</p>
       <p>Modelo: Chico</P>
       <p>Tallas: S-M-L-XL</p>
@@ -96,9 +96,10 @@ if ($_SESSION['doc_Cliente']=="" || $_SESSION['doc_Cliente']==null ) {
 <form>
 <select name="ad" onchange="salta(this.form)">
 <option selected> ---
-<option value="xxxx.htm">texto 1
-<option value="yyyy.htm">texto 2
-<option value="zzzz.htm">texto 3
+<option value="xxxx.htm">S
+<option value="yyyy.htm">M
+<option value="zzzz.htm">L
+<option value="AAAA.htm">XL
 </select>
 </form>
 </html>
