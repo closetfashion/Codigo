@@ -102,7 +102,7 @@
       <h3>Camisa Negra Manga Larga</h3>
       <p text-align="center">
       <p>Color: Negro</p>
-      <p> Tintas: 1 (Blanco)</p>
+      <p> Tintas: 1</p>
       <p>Marca: Gildan</p>
       <p>Modelo: Chico</P>
       <p>Tallas: S-M-L-XL</p>
@@ -123,8 +123,6 @@
     </div>
   </div>
 </div>
-   <!--    --------------------------- -->
-    </div>
 </div>
   
 </center>
