@@ -1,0 +1,110 @@
+{
+	font-family: cursive;
+}
+.NOMBRE {
+  font-size: larger;
+  color: #00F;
+}
+.VISION {
+  color: #00F;
+}
+.NOMBRE {
+  color: #000;
+  font-size: smaller;
+}
+nombre {
+  color: #000;
+}
+.NOMBRE .NOMBRE {
+  font-size: larger;
+}
+.NOMBRE {
+  font-size: larger;
+}
+.NOMBRE .NOMBRE .NOMBRE {
+  font-size: larger;
+}
+.NOMBRE .NOMBRE .NOMBRE {
+  font-size: larger;
+}
+.NOMBRE .NOMBRE {
+  font-size: smaller;
+}
+*{
+  background-image: url(Imagenes/psycho.gif);
+}
+body {
+  background-image: url(Imagenes/Fondo.png);
+  color: #60F;
+  text-align: center;
+  font-size: larger;
+  font-weight: ;
+}
+.NOMBRE .NOMBRE {
+  color: #FFF;
+}
+.NOMBRE .NOMBRE {
+  font-size: larger;
+}
+.NOMBRE .NOMBRE {
+  color: #30C;
+}
+.NOMBRE .NOMBRE {
+  color: #000;
+}
+.NOMBRE .NOMBRE {
+  font-weight:;
+}
+.fgjf {
+  text-align: center;
+}
+.LETRA {
+  text-align: center;
+}
+.LETRA2 {
+  text-align: center;
+  color: #000;
+}
+.LETRA3 {
+  text-align: center;
+  color: #000;
+}
+.LETRA {
+  color: #000;
+}
+.MUJER {
+  text-align: center;
+}
+.HOMBRE {
+  text-align: center; 
+}
+.NOMBRE1 {font-size: larger;
+  color: #00F;
+}
+.NOMBRE1 {color: #000;
+  font-size: smaller;
+}
+.NOMBRE1 {font-size: larger;
+}
+body,td,th {
+  font-family: "Comic Sans MS", cursive;
+  color: #000;
+}
+a:link {
+  color: #000;
+  text-decoration: none;
+}
+a:visited {
+  color: #000;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  text-decoration: none;
+}
+.fondo {
+	 background-image: url(Imagenes\Fondo.png);
+}
+
